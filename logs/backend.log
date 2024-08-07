@@ -1,0 +1,683 @@
+24.7.2024, 11:29:40 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2024, 12:33:17 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2024, 12:33:48 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2024, 12:34:17 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2024, 12:36:30 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2024, 12:37:13 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2024, 12:37:44 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2024, 12:38:09 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2024, 12:38:54 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2024, 12:39:09 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2024, 12:39:58 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2024, 12:41:38 - INFO - Server listening on port http://127.0.0.1:3030/
+24.7.2024, 19:34:32 - ERROR - condt find this bug
+26.7.2024, 16:48:23 - INFO - Server listening on port http://127.0.0.1:3030/
+26.7.2024, 16:48:35 - ERROR - condt find this bug
+26.7.2024, 16:48:53 - ERROR - condt find this bug
+26.7.2024, 16:48:58 - ERROR - condt find this bug
+26.7.2024, 16:49:03 - ERROR - condt find this bug
+28.7.2024, 10:01:53 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 10:02:18 - ERROR - TypeError: Cannot read properties of undefined (reading 'txt')
+28.7.2024, 10:02:24 - ERROR - TypeError: Cannot read properties of undefined (reading 'txt')
+28.7.2024, 10:02:34 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 10:03:49 - ERROR - TypeError: Cannot read properties of undefined (reading 'txt')
+28.7.2024, 10:05:11 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 10:23:35 - ERROR - condt find this bug
+28.7.2024, 11:40:33 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 11:41:29 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 11:44:26 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 11:45:18 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 11:46:06 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 11:51:19 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 11:51:30 - ERROR - ReferenceError: txt is not defined
+28.7.2024, 11:51:33 - ERROR - ReferenceError: txt is not defined
+28.7.2024, 11:51:53 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 11:51:54 - ERROR - ReferenceError: createdAt is not defined
+28.7.2024, 11:51:56 - ERROR - ReferenceError: createdAt is not defined
+28.7.2024, 11:52:46 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 11:53:00 - ERROR - ReferenceError: createdAt is not defined
+28.7.2024, 11:53:03 - ERROR - ReferenceError: createdAt is not defined
+28.7.2024, 11:53:42 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 11:53:43 - ERROR - ReferenceError: Cannot access 'localBugs' before initialization
+28.7.2024, 11:55:16 - ERROR - ReferenceError: Cannot access 'localBugs' before initialization
+28.7.2024, 11:55:34 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 11:55:55 - ERROR - ReferenceError: Cannot access 'localBugs' before initialization
+28.7.2024, 11:56:37 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 11:56:40 - ERROR - ReferenceError: Cannot access 'localBugs' before initialization
+28.7.2024, 11:57:23 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 11:58:45 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 11:59:34 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 11:59:37 - ERROR - ReferenceError: ok is not defined
+28.7.2024, 11:59:53 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 12:01:33 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 12:02:44 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 12:04:30 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 12:05:49 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 12:06:17 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 12:07:24 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 12:07:47 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 12:07:48 - ERROR - TypeError: bug.includes is not a function
+28.7.2024, 12:07:50 - ERROR - TypeError: bug.includes is not a function
+28.7.2024, 12:08:28 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 12:08:30 - ERROR - TypeError: Cannot read properties of undefined (reading 'includes')
+28.7.2024, 12:09:17 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 12:13:50 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 12:13:52 - ERROR - TypeError: Cannot read properties of undefined (reading 'sort')
+28.7.2024, 12:13:54 - ERROR - TypeError: Cannot read properties of undefined (reading 'sort')
+28.7.2024, 12:15:06 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 12:15:20 - ERROR - TypeError: Cannot read properties of undefined (reading 'sort')
+28.7.2024, 12:18:34 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 12:18:35 - ERROR - TypeError: Cannot read properties of undefined (reading 'sortBy')
+28.7.2024, 12:19:07 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 12:19:08 - ERROR - TypeError: Cannot read properties of undefined (reading 'sortBy')
+28.7.2024, 14:48:11 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 14:48:12 - ERROR - TypeError: Cannot read properties of undefined (reading 'sortBy')
+28.7.2024, 14:48:51 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 14:48:52 - ERROR - TypeError: Cannot read properties of undefined (reading 'sortBy')
+28.7.2024, 14:49:29 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 14:49:30 - ERROR - TypeError: Cannot read properties of undefined (reading 'sortBy')
+28.7.2024, 14:50:16 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 14:51:28 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 14:57:29 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 15:02:37 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 16:58:25 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:17:19 - ERROR - ReferenceError: Cannot access 'user' before initialization
+28.7.2024, 17:18:17 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:18:25 - ERROR - ReferenceError: Cannot access 'user' before initialization
+28.7.2024, 17:18:59 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:19:01 - ERROR - TypeError: Assignment to constant variable.
+28.7.2024, 17:19:37 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:19:38 - ERROR - condt find this user
+28.7.2024, 17:19:40 - ERROR - condt find this user
+28.7.2024, 17:20:10 - ERROR - condt find this user
+28.7.2024, 17:20:45 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:20:46 - ERROR - ReferenceError: Cannot access 'users' before initialization
+28.7.2024, 17:21:05 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:21:06 - ERROR - condt find this user
+28.7.2024, 17:24:45 - ERROR - condt find this user
+28.7.2024, 17:25:37 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:25:40 - ERROR - condt find this user
+28.7.2024, 17:26:38 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:26:39 - ERROR - condt find this user
+28.7.2024, 17:27:36 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:27:38 - ERROR - condt find this user
+28.7.2024, 17:29:25 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:29:26 - ERROR - condt find this user
+28.7.2024, 17:31:06 - ERROR - condt find this user
+28.7.2024, 17:32:17 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:32:18 - ERROR - condt find this user
+28.7.2024, 17:32:31 - ERROR - condt find this user
+28.7.2024, 17:32:47 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:32:50 - ERROR - condt find this user
+28.7.2024, 17:33:37 - ERROR - condt find this user
+28.7.2024, 17:33:50 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:33:51 - ERROR - condt find this user
+28.7.2024, 17:34:18 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:34:19 - ERROR - condt find this user
+28.7.2024, 17:37:03 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:37:06 - ERROR - condt find this user
+28.7.2024, 17:37:07 - ERROR - condt find this user
+28.7.2024, 17:38:01 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:38:10 - ERROR - TypeError: Cannot read properties of undefined (reading 'params')
+28.7.2024, 17:39:54 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:39:55 - ERROR - TypeError: Cannot read properties of undefined (reading 'params')
+28.7.2024, 17:39:58 - ERROR - TypeError: Cannot read properties of undefined (reading 'params')
+28.7.2024, 17:43:15 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 17:43:16 - ERROR - condt find this user
+28.7.2024, 17:43:43 - ERROR - condt find this user
+28.7.2024, 18:02:45 - ERROR - condt find this user
+28.7.2024, 18:05:19 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 18:05:25 - ERROR - condt find this user
+28.7.2024, 18:06:01 - ERROR - condt find this user
+28.7.2024, 18:06:08 - ERROR - condt find this user
+28.7.2024, 18:07:04 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 18:07:04 - ERROR - condt find this user
+28.7.2024, 18:07:37 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 18:08:17 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 18:08:22 - ERROR - condt find this user
+28.7.2024, 18:09:01 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 18:09:02 - ERROR - condt find this user
+28.7.2024, 18:09:47 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 18:10:09 - ERROR - condt find this user
+28.7.2024, 18:10:12 - ERROR - condt find this user
+28.7.2024, 18:10:26 - ERROR - condt find this user
+28.7.2024, 18:10:37 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 18:11:02 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 18:11:03 - ERROR - condt find this user
+28.7.2024, 18:21:59 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 18:22:00 - ERROR - condt find this user
+28.7.2024, 18:22:33 - ERROR - condt find this user
+28.7.2024, 18:56:46 - ERROR - condt find this user
+28.7.2024, 19:01:51 - ERROR - condt find this user
+28.7.2024, 19:12:56 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 19:13:06 - ERROR - condt find this user
+28.7.2024, 19:15:35 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 19:15:36 - ERROR - condt find this user
+28.7.2024, 19:15:58 - ERROR - condt find this user
+28.7.2024, 19:19:24 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 19:19:27 - ERROR - condt find this user
+28.7.2024, 19:20:07 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 19:21:51 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 19:23:41 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 19:25:37 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 19:27:30 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 19:28:57 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 19:40:51 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 19:41:58 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 19:42:27 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 19:42:41 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 19:43:26 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 19:45:24 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 19:45:51 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 19:51:42 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 20:02:37 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 20:08:23 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 20:09:25 - INFO - Server listening on port http://127.0.0.1:3030/
+28.7.2024, 20:14:57 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 10:59:10 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 11:35:31 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 11:36:21 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 11:39:16 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 12:04:47 - ERROR - condt find this user
+29.7.2024, 12:05:59 - ERROR - ReferenceError: userToSave is not defined
+29.7.2024, 12:06:41 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 12:07:32 - ERROR - ReferenceError: res is not defined
+29.7.2024, 12:07:59 - ERROR - ReferenceError: res is not defined
+29.7.2024, 12:09:01 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 12:10:48 - ERROR - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 0
+29.7.2024, 12:12:02 - ERROR - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 0
+29.7.2024, 12:12:07 - ERROR - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 0
+29.7.2024, 12:13:31 - ERROR - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 0
+29.7.2024, 12:13:40 - ERROR - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 0
+29.7.2024, 12:14:04 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 12:22:07 - ERROR - ReferenceError: localBugs is not defined
+29.7.2024, 12:24:41 - ERROR - ReferenceError: localBugs is not defined
+29.7.2024, 12:25:17 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 12:25:18 - ERROR - ReferenceError: localBugs is not defined
+29.7.2024, 12:25:39 - ERROR - ReferenceError: localBugs is not defined
+29.7.2024, 12:25:59 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 12:26:01 - ERROR - ReferenceError: localBugs is not defined
+29.7.2024, 12:26:24 - ERROR - ReferenceError: localBugs is not defined
+29.7.2024, 12:26:36 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 15:29:46 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 15:32:07 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 15:34:41 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 15:35:08 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 15:48:56 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 15:56:08 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 16:05:43 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 16:06:09 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 16:09:19 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 16:10:27 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 16:12:50 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 16:15:19 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 16:16:21 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 16:17:26 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 16:18:37 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 17:28:09 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 17:30:55 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 17:37:16 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 17:47:09 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 17:50:57 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 18:20:03 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 18:22:02 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 18:47:38 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 19:01:29 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 19:02:11 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 19:04:03 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 19:07:08 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 19:47:07 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 19:53:12 - INFO - Server listening on port http://127.0.0.1:3030/
+29.7.2024, 19:54:44 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 12:06:16 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 12:08:59 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 12:13:01 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 12:23:35 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 12:28:22 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 12:36:21 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 15:26:27 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 15:26:40 - ERROR - ReferenceError: localBugs is not defined
+30.7.2024, 15:26:42 - ERROR - ReferenceError: localBugs is not defined
+30.7.2024, 15:26:56 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 15:27:35 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 15:27:39 - ERROR - ReferenceError: localUsers is not defined
+30.7.2024, 15:28:05 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 15:48:45 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 15:49:40 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 15:50:52 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 15:51:10 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 15:53:59 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 18:31:17 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 18:32:57 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 18:33:55 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 18:35:08 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 18:36:06 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 18:36:15 - WARN - limited exceeded
+30.7.2024, 18:37:40 - WARN - limited exceeded
+30.7.2024, 18:42:48 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 18:42:53 - ERROR - TypeError: req.params.visitedBugs is not iterable
+30.7.2024, 18:43:00 - ERROR - TypeError: req.params.visitedBugs is not iterable
+30.7.2024, 18:43:26 - ERROR - TypeError: req.params.visitedBugs is not iterable
+30.7.2024, 18:43:33 - ERROR - TypeError: req.params.visitedBugs is not iterable
+30.7.2024, 18:43:51 - ERROR - TypeError: req.params.visitedBugs is not iterable
+30.7.2024, 18:44:42 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 18:44:45 - ERROR - TypeError: req.cookies.visitedBugs is not iterable
+30.7.2024, 18:46:32 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 18:46:35 - ERROR - TypeError: req.cookies.visitedBugs is not iterable
+30.7.2024, 18:46:57 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 18:47:02 - ERROR - TypeError: req.cookies.visitedBugs is not iterable
+30.7.2024, 18:47:08 - ERROR - TypeError: req.cookies.visitedBugs is not iterable
+30.7.2024, 19:09:15 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 19:09:20 - ERROR - TypeError: req.cookies.visitedBugs is not iterable
+30.7.2024, 19:10:39 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 19:11:09 - WARN - limited exceeded
+30.7.2024, 19:15:22 - WARN - limited exceeded
+30.7.2024, 19:16:13 - WARN - limited exceeded
+30.7.2024, 19:20:22 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 19:24:14 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 19:27:09 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 19:28:22 - INFO - Server  on port http://127.0.0.1:3030/
+30.7.2024, 19:29:36 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 19:30:33 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 19:31:33 - INFO - Server listening on port http://127.0.0.1:3030/
+30.7.2024, 19:34:42 - INFO - Server listening on port http://127.0.0.1:3030/
+31.7.2024, 10:30:59 - INFO - Server listening on port http://127.0.0.1:3030/
+4.8.2024, 21:42:04 - ERROR - failed to loginReferenceError: loggerService is not defined
+4.8.2024, 21:44:52 - ERROR - failed to siginReferenceError: loggerService is not defined
+4.8.2024, 21:45:52 - ERROR - failed to siginReferenceError: loggerService is not defined
+4.8.2024, 21:49:25 - ERROR - failed to siginReferenceError: loggerService is not defined
+4.8.2024, 21:52:14 - ERROR - failed to siginReferenceError: loggerService is not defined
+4.8.2024, 21:54:38 - ERROR - failed to siginReferenceError: loggerService is not defined
+4.8.2024, 21:54:45 - ERROR - failed to siginReferenceError: loggerService is not defined
+4.8.2024, 21:59:58 - ERROR - failed to siginReferenceError: loggerService is not defined
+4.8.2024, 22:05:22 - ERROR - failed to siginReferenceError: loggerService is not defined
+4.8.2024, 22:08:31 - ERROR - failed to siginReferenceError: loggerService is not defined
+4.8.2024, 22:09:07 - ERROR - failed to siginReferenceError: loggerService is not defined
+4.8.2024, 22:09:18 - ERROR - failed to siginReferenceError: loggerService is not defined
+4.8.2024, 22:10:52 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 11:55:35 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 11:55:49 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 11:57:54 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 11:57:59 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 13:06:00 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 13:27:38 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 13:28:48 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 13:31:41 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 13:31:50 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 13:33:01 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 13:40:21 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 14:08:32 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 14:08:33 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 14:08:37 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 14:08:40 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 14:18:25 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 14:19:50 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 14:19:56 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 14:20:42 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 14:54:57 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 15:11:08 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 15:22:13 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 15:24:25 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 15:24:37 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 15:24:49 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 15:26:05 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 15:26:15 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 15:26:45 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:06:24 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:07:42 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:08:55 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:09:05 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:09:05 - DEBUG - auth.route - new account created"pppviera@yahoo.com.br"
+5.8.2024, 16:26:36 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:27:25 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:27:42 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:28:03 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:28:09 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:28:29 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:28:36 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:28:39 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:28:52 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:28:59 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:29:35 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:30:29 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:30:56 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:31:16 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:31:40 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:31:56 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:32:13 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:32:27 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:32:54 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:32:58 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:33:33 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:34:14 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:34:25 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:34:43 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:35:43 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:36:13 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:38:21 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:39:15 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:39:29 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:39:39 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 16:39:54 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:40:56 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:41:19 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 16:42:46 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 17:00:03 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 17:00:33 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 17:01:11 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 17:01:33 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 17:01:48 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 17:02:37 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:02:37 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:03:40 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:03:40 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:03:46 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:03:46 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:04:02 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:04:26 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:04:26 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:04:47 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:04:47 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:04:53 - ERROR - failed to siginReferenceError: userExist is not defined
+5.8.2024, 17:04:53 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:05:01 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:05:22 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:05:22 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:05:33 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:05:40 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:05:40 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:06:01 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:06:25 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:06:25 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:06:46 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:06:46 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:06:53 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:06:53 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:07:00 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:07:08 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:07:08 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:07:13 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:07:13 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:07:22 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:07:56 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:07:56 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:08:19 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:08:19 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:08:54 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:08:54 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:09:19 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:09:19 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:09:30 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:09:30 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:09:52 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:09:52 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:10:03 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:10:03 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:10:12 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:10:12 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:10:22 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:10:22 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:10:32 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:10:32 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:10:43 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:10:43 - ERROR - failed to siginReferenceError: userService is not defined
+5.8.2024, 17:11:12 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:11:12 - ERROR - failed to siginTypeError: userService.getByUsername is not a function
+5.8.2024, 17:12:49 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:12:49 - ERROR - failed to sigincondt find this user
+5.8.2024, 17:13:03 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:13:03 - ERROR - failed to sigincondt find this user
+5.8.2024, 17:46:08 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:46:08 - ERROR - failed to sigincondt find this user
+5.8.2024, 17:46:22 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:46:23 - ERROR - failed to sigincondt find this user
+5.8.2024, 17:46:32 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:46:32 - ERROR - failed to sigincondt find this user
+5.8.2024, 17:48:28 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:48:28 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 17:48:34 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:48:34 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 17:49:10 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:49:27 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:49:27 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 17:49:34 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:49:56 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:49:56 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 17:50:00 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:50:00 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 17:50:15 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:50:15 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 17:50:32 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:50:32 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 17:51:09 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:51:43 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:51:50 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:52:16 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:52:25 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:52:36 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:52:44 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:52:58 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:53:13 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:53:13 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 17:53:20 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:53:21 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 17:53:31 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:53:31 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 17:54:03 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:54:03 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 17:54:24 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:54:24 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 17:55:06 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:55:06 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 17:55:24 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:55:24 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 17:57:40 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:59:16 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 17:59:16 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:00:19 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:00:19 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:00:35 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:00:35 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:01:19 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:01:19 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:01:26 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:01:26 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:01:57 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:01:58 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:02:11 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:02:12 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:03:01 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:03:01 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:03:45 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:03:45 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:03:53 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:03:53 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:03:57 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:03:57 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:04:06 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:04:06 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:04:33 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:04:33 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:04:38 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:04:38 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:04:52 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:04:52 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:05:11 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:05:11 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:05:24 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:05:24 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:05:45 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:05:45 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:05:53 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:05:53 - ERROR - failed to siginReferenceError: loggerService is not defined
+5.8.2024, 18:12:22 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:12:22 - DEBUG - auth.route - new account created"pppviera@yahoo.com.br"
+5.8.2024, 18:12:47 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:12:47 - ERROR - failed to siginUsername already taken
+5.8.2024, 18:13:02 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:13:02 - ERROR - failed to siginUsername already taken
+5.8.2024, 18:13:20 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:13:20 - ERROR - failed to siginUsername already taken
+5.8.2024, 18:13:59 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:13:59 - ERROR - failed to siginUsername already taken
+5.8.2024, 18:14:21 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:14:21 - ERROR - failed to siginUsername already taken
+5.8.2024, 18:14:34 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:14:34 - ERROR - failed to siginUsername already taken
+5.8.2024, 18:14:58 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:14:59 - ERROR - failed to siginUsername already taken
+5.8.2024, 18:15:12 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:15:38 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: da
+5.8.2024, 18:15:38 - DEBUG - auth.route - new account created"pppviera@yahoo.com.br"
+5.8.2024, 18:15:38 - INFO - User signup: | {"_id":"fBfEp","fullname":"da","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":10000}
+5.8.2024, 18:21:27 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: 123
+5.8.2024, 18:21:27 - ERROR - failed to siginUsername already taken
+5.8.2024, 18:21:28 - DEBUG - auth.service - signup with username: pppviera@yahoo.com.br, fullname: 123
+5.8.2024, 18:21:28 - ERROR - failed to siginUsername already taken
+5.8.2024, 18:21:43 - DEBUG - auth.service - signup with username: p@yahoo.com.br, fullname: 123
+5.8.2024, 18:21:43 - DEBUG - auth.route - new account created"p@yahoo.com.br"
+5.8.2024, 18:21:43 - INFO - User signup: | {"_id":"iAsrw","fullname":"123","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":10000}
+5.8.2024, 18:22:50 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 18:23:05 - DEBUG - auth.service - signup with username: 55pviera@yahoo.com.br, fullname: 112
+5.8.2024, 18:23:05 - DEBUG - auth.route - new account created"55pviera@yahoo.com.br"
+5.8.2024, 18:23:05 - INFO - User signup: | {"_id":"fso6r","fullname":"112","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":10000}
+5.8.2024, 18:33:34 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 18:34:45 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 18:34:55 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 18:35:15 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 18:36:13 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 18:36:42 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 18:37:59 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 18:38:12 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 18:38:15 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 18:41:56 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 18:41:59 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 18:42:20 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 18:42:21 - ERROR - failed to loginReferenceError: Cannot access 'user' before initialization
+5.8.2024, 18:43:57 - ERROR - failed to loginReferenceError: username is not defined
+5.8.2024, 18:44:10 - INFO - user login | {}
+5.8.2024, 19:29:27 - INFO - user login | {}
+5.8.2024, 19:54:28 - ERROR - ReferenceError: res is not defined
+5.8.2024, 19:54:52 - ERROR - ReferenceError: res is not defined
+5.8.2024, 19:55:45 - INFO - user login | {}
+5.8.2024, 19:56:37 - DEBUG - auth.service - signup with username: a@a.com.br, fullname: daniel
+5.8.2024, 19:56:37 - DEBUG - auth.route - new account created"a@a.com.br"
+5.8.2024, 19:56:37 - INFO - User signup: | {"_id":"QkCy4","fullname":"daniel","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":10000}
+5.8.2024, 20:08:16 - INFO - user login | {}
+5.8.2024, 20:13:18 - INFO - user login | {}
+5.8.2024, 20:16:06 - INFO - user login | {}
+5.8.2024, 20:16:47 - INFO - user login | {"_id":"QkCy4","fullname":"daniel","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":10000}
+5.8.2024, 20:21:40 - INFO - user login | {"_id":"QkCy4","fullname":"daniel","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":10000}
+5.8.2024, 20:25:48 - DEBUG - auth.service - signup with username: a1@a.com.br, fullname: da
+5.8.2024, 20:25:48 - DEBUG - auth.route - new account created"a1@a.com.br"
+5.8.2024, 20:25:48 - INFO - User signup: | {"_id":"UzLQN","fullname":"da","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","score":10000}
+6.8.2024, 17:23:53 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:24:02 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:25:20 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:25:30 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:26:04 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:26:11 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:27:26 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:29:10 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:29:33 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:29:40 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:30:12 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:30:39 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:31:48 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:34:03 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:38:43 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:40:58 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:41:18 - ERROR - failed to loginReferenceError: authService is not defined
+6.8.2024, 17:50:52 - ERROR - ReferenceError: res is not defined
+6.8.2024, 17:53:19 - ERROR - ReferenceError: res is not defined
+6.8.2024, 17:53:35 - ERROR - ReferenceError: res is not defined
+6.8.2024, 17:53:49 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:01:38 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:01:48 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:02:01 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:04:09 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:04:21 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:13:05 - ERROR - condt find this bug
+6.8.2024, 18:21:04 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:21:21 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:21:38 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:21:51 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:22:51 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:23:33 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:27:15 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:30:20 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:30:29 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:30:52 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:32:52 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:32:57 - ERROR - TypeError: Cannot read properties of undefined (reading '_id')
+6.8.2024, 18:33:02 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:41:26 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:41:47 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:42:10 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:43:05 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:43:27 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:45:33 - ERROR - ReferenceError: res is not defined
+6.8.2024, 18:46:57 - ERROR - ReferenceError: res is not defined
+6.8.2024, 19:00:12 - ERROR - ReferenceError: res is not defined
+6.8.2024, 19:01:40 - ERROR - ReferenceError: res is not defined
+6.8.2024, 19:02:06 - ERROR - ReferenceError: res is not defined
+6.8.2024, 19:02:24 - ERROR - ReferenceError: res is not defined
+6.8.2024, 19:09:17 - ERROR - ReferenceError: res is not defined
+7.8.2024, 11:04:37 - ERROR - TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 11:04:49 - ERROR - TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 11:05:42 - ERROR - TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 11:07:25 - ERROR - TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 11:07:37 - ERROR - TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 11:07:54 - ERROR - TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 11:08:01 - ERROR - TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 11:08:54 - ERROR - TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 11:09:08 - ERROR - TypeError: Cannot read properties of undefined (reading '_id')
+7.8.2024, 11:09:54 - ERROR - condt find this bug
+7.8.2024, 11:09:54 - ERROR - condt find this bug
+7.8.2024, 11:10:52 - ERROR - condt find this bug
+7.8.2024, 11:12:58 - ERROR - ReferenceError: res is not defined
+7.8.2024, 11:13:08 - ERROR - ReferenceError: res is not defined
+7.8.2024, 11:13:21 - ERROR - condt find this bug
+7.8.2024, 11:13:33 - ERROR - ReferenceError: res is not defined
+7.8.2024, 11:13:35 - ERROR - condt find this bug
+7.8.2024, 11:13:43 - ERROR - condt find this bug
+7.8.2024, 11:14:08 - ERROR - ReferenceError: res is not defined
+7.8.2024, 11:14:11 - ERROR - condt find this bug
+7.8.2024, 11:14:19 - ERROR - ReferenceError: res is not defined
+7.8.2024, 11:14:20 - ERROR - condt find this bug
+7.8.2024, 11:14:43 - ERROR - condt find this bug
+7.8.2024, 11:23:45 - ERROR - condt find this bug
+7.8.2024, 11:24:26 - ERROR - ReferenceError: res is not defined
+7.8.2024, 11:24:28 - ERROR - not allowed to delete
+7.8.2024, 11:49:43 - ERROR - condt find this user
+7.8.2024, 11:58:57 - ERROR - condt find this user
+7.8.2024, 12:00:43 - ERROR - condt find this user
+7.8.2024, 12:00:57 - ERROR - condt find this user
+7.8.2024, 12:01:35 - ERROR - condt find this user
+7.8.2024, 12:01:55 - ERROR - condt find this user
+7.8.2024, 12:02:07 - ERROR - condt find this user
+7.8.2024, 12:02:09 - ERROR - condt find this user
+7.8.2024, 12:02:29 - ERROR - condt find this user
+7.8.2024, 12:03:28 - ERROR - condt find this user
+7.8.2024, 12:03:32 - ERROR - condt find this user
+7.8.2024, 12:03:43 - ERROR - condt find this user
+7.8.2024, 12:03:53 - ERROR - condt find this user
+7.8.2024, 12:03:56 - ERROR - condt find this user
+7.8.2024, 12:04:06 - ERROR - condt find this user
+7.8.2024, 12:04:46 - ERROR - condt find this user
+7.8.2024, 12:04:47 - ERROR - condt find this user
+7.8.2024, 12:04:51 - ERROR - condt find this user
+7.8.2024, 12:05:16 - ERROR - condt find this user
+7.8.2024, 12:05:22 - ERROR - condt find this user
+7.8.2024, 12:13:41 - ERROR - condt find this user
+7.8.2024, 12:14:38 - ERROR - condt find this user
+7.8.2024, 12:14:43 - ERROR - condt find this user
+7.8.2024, 12:14:57 - ERROR - condt find this user
+7.8.2024, 12:15:03 - ERROR - condt find this user
+7.8.2024, 12:15:34 - ERROR - condt find this user
+7.8.2024, 12:16:56 - ERROR - condt find this user
+7.8.2024, 12:17:25 - ERROR - condt find this user
+7.8.2024, 12:17:30 - ERROR - condt find this user
+7.8.2024, 12:17:41 - ERROR - condt find this user
+7.8.2024, 12:19:15 - ERROR - condt find this user
+7.8.2024, 12:26:32 - ERROR - condt find this user

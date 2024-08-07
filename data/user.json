@@ -1,0 +1,20 @@
+[
+  {
+    "username": "a@a.com.br",
+    "password": "$2b$10$1AiNUgZ7unf5rnzCrnvnJeFaE5V5/wAgXUQcwA2DDus6ZH7MiLMM.",
+    "fullname": "daniel",
+    "_id": "QkCy4",
+    "score": 10000,
+    "createdAt": 1722876997298,
+    "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"
+  },
+  {
+    "username": "a1@a.com.br",
+    "password": "$2b$10$YcFc.bheV7VKiTFe2P6HHeDGsKbGvKGqRY9NaIRelgb6V3RDYMMjm",
+    "fullname": "da",
+    "_id": "UzLQN",
+    "score": 10000,
+    "createdAt": 1722878748493,
+    "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"
+  }
+]
